@@ -1,0 +1,1 @@
+technic_compressed adds supplimental recipes to the technic compressor like compressing cobble, dirt, desert sand, and silver sand as an alternative to the space saving way of them normally being able to craft a denser form of the material since they are all good build materials.
